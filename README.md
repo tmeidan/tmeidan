@@ -1,4 +1,6 @@
 ## Hi there 👋
+I am a student at the University of Chicago and am majoring in Computer Science! I am currently learning Python and Java.
+
 
 <!--
 **tmeidan/tmeidan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
